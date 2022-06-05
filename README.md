@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/Jephyy/qrcode)
+- Live Site URL: (https://jephyy.github.io/qrcode/)
 
 ## My process
 
@@ -41,6 +41,5 @@ I learnt how to optimize my code for different device sizes
 
 ## Author
 
-- Website - (Jephy)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Jephyy)
-- Twitter - [@yourusername](https://www.twitter.com/the_real_lynk)
+- Frontend Mentor - [@Jephy](https://www.frontendmentor.io/profile/Jephyy)
+- Twitter - [@the_real_lynk](https://www.twitter.com/the_real_lynk)
